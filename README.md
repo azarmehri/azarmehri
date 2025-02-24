@@ -1,4 +1,4 @@
-# Hi there, I'm Amir Mohammad Azarmehri! 👋
+# Hi there, I'm AmirMohammad Azarmehri! 👋
 
 I’m a **software developer** and a **PhD student in Biomedical Engineering**.
 
@@ -13,7 +13,7 @@ My toolkit for research includes:
 - **MATLAB** for signal processing and complex data analysis  
 - **Python** for machine learning and scientific computing  
 
-### Publication
+### 📃 Publication
 - [**The reuniens nucleus of the thalamus facilitates hippocampo-cortical dialogue during sleep**](https://doi.org/10.7554/eLife.90826.2)
 
 ## What I'm Currently Working On
